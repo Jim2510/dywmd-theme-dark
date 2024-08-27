@@ -9,7 +9,7 @@
     "url": "https://github.com/Jim2510/dywmd-theme-dark.git"
   },
   "engines": {
-    "vscode": "^1.92.0"
+    "vscode": "^1.91.1"
   },
   "categories": [
     "Themes"
