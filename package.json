@@ -1,0 +1,21 @@
+{
+  "name": "dywmd",
+  "displayName": "DYWMD",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DYWMD",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DYWMD-color-theme.json"
+      }
+    ]
+  }
+}
