@@ -22,5 +22,8 @@
         "path": "./themes/DYWMD-color-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "dywmd": "file:"
   }
 }
